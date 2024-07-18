@@ -25,7 +25,7 @@ Ready to take on the challenge? Whether you’re an individual entrepreneur, a s
 
 ## Current Challenges
 
-|DEC-No|Description|
+|DEC-No|Challenge Description|
 |---|---|
 |[DEC-01](/challenges/dec-01.md)| Empowering Citizen-Centric Data Sharing|
 |[DEC-02](/challenges/dec-02.md)| Sign With My Website|
