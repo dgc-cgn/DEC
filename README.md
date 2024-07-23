@@ -24,7 +24,7 @@ Engage with like-minded innovators, entrepreneurs, policymakers and technologist
 Ready to take on the challenge? Whether you’re an individual entrepreneur, a startup, policymaker, professional, academic or a seasoned innovator, we invite you to collaborate with us in exploring new frontiers and making a lasting impact. Together, we can redefine what’s possible and shape the future of digital technology. 
 
 ## Challenge Agility
-Every challenge is unique. Therefore each challenge is managed according to the needs of its stakeholders and the outcomes they desire. Challenges can range from being informal to formal in the way that they are governed. Challenge activities can range from being light-touch, with periodic touchpoints to being intensive - with in-person workshops or hackathon sessions. 
+Every challenge is unique. Therefore, each challenge is managed according to the needs of its stakeholders and the outcomes they desire. Challenges can range from being informal to formal in the way that they are governed. Challenge activities can range from being light-touch, with periodic touchpoints to being intensive - with in-person workshops or hackathon sessions. 
 
 While the challenges may range in the way they are carried out, it is important the desired outcomes are clear so everyone is aligned, working towards a common goal.
 
@@ -33,5 +33,5 @@ While the challenges may range in the way they are carried out, it is important 
 |DEC-No|Challenge Description|
 |---|---|
 |[DEC-01](/challenges/dec-01.md)| Empowering Citizen-Centric Data Sharing|
-|[DEC-02](/challenges/dec-02.md)| Sign With My Domain|
+|[DEC-02](/challenges/dec-02.md)| Sign and Verify With My Domain|
 
