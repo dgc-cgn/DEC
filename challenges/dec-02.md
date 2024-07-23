@@ -17,6 +17,14 @@ A key enabler is the Decentralized Identifier or DID. A DID is a new component s
 
 We are looking for participants who are willing be a part of a cohort to demonstrate. Participants can be issuers, verifiers, or most importantly, holders who require the authenticity of documents to be confirmed.
 
+### Current Partipants
+
+|Organization|Contact(s)|Primary Interest(s)|
+|---|---|---|
+|Digital Governance Council|Tim Bouma|Convenor, Standards|
+|CIRA| Jacques Latour, Jesse Carter|Infrastructure, Standards|
+|Northern Block|Mathieu Glaude|Commercial Vendor|
+
 
 ## Helpful Diagrams
 
