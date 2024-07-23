@@ -1,4 +1,4 @@
-# DEC-02 Sign With My Domain
+# DEC-02 Sign and Verify With My Domain
 ## Overview
 
 A compelling use of the new WC3 Decentralized Identifiers (W3C DIDs) is enable the capability to “sign with my domain”. Simply put, your domain, your website, well-known to your users, becomes a trusted identifier you can use to sign anything.
@@ -7,3 +7,7 @@ A compelling use of the new WC3 Decentralized Identifiers (W3C DIDs) is enable t
 
 
 Decentralized Identifiers (DIDs), a global standard from the World Wide Web Consortium (W3C), are a type of URI that is globally unique, highly available, and cryptographically verifiable with no required central authority. DIDs associate an entity (DID Subject) with metadata describing the entity (DID Document) and how to interact with it.
+
+## Key References
+
+* High Assurance DIDS with DNS [IETF Draft RFC](https://www.ietf.org/archive/id/draft-carter-high-assurance-dids-with-dns-05.html)
