@@ -10,7 +10,7 @@ A key enabler is the Decentralized Identifier or DID. A DID is a new component s
 
 ## Expected Outcomes
 
-1. A working implementation in accordance with the High Assurance DIDS with DNS. In simple terms, a website domain having the address of `http://example.com` should be able to sign documents with the correspond DID `did:web:example.com`.
+1. A working implementation in accordance with the High Assurance DIDS with DNS. In simple terms, a website domain having the address of `https://example.com` should be able to sign documents with the correspond DID `did:web:example.com`.
 2. The ability to verify a document (pdf) or verifiable credential using the High Assurance DID, for example `did:web:example.com`
 
 ## Participation
