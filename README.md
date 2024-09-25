@@ -1,4 +1,5 @@
 # Digital Ecosystem Challenges
+[French](README-fr.md)
 ## Transformation through Collaboration 
 
 Innovation thrives where ideas meet. 

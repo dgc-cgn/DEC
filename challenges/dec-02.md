@@ -1,4 +1,5 @@
 # DEC-02 Sign and Verify With My Domain
+[French](./dec-02-fr.md)
 ## Overview
 
 A compelling use of the new WC3 Decentralized Identifiers (W3C DIDs) is to enable the capability to “sign and verify with my domain”. Simply put, your domain, your website - something that is already well-known to your users - becomes a trusted identifier you can use to sign anything you want to be verified.
