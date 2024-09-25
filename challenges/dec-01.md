@@ -1,4 +1,5 @@
 # DEC-01: Empowering Citizen-Centric Data Sharing
+[French](dec-01-fr.md)
 
 ## Challenge Description: 
 
