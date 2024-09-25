@@ -42,7 +42,7 @@ Bien que les défis puissent varier dans la façon dont ils sont exécutés, il 
 
 |DEC-No|Challenge Description|
 |---|---|
-|[DEC-01](/challenges/dec-01-fr.md)| Empowering Citizen-Centric Data Sharing|
-|[DEC-02](/challenges/dec-02-fr.md)| Sign and Verify With My Domain|
+|[DEC-01](/challenges/dec-01-fr.md)|Habiliter le partage de données axé sur les citoyens|
+|[DEC-02](/challenges/dec-02-fr.md)| Signer et vérifier avec mon domaine|
 
  
