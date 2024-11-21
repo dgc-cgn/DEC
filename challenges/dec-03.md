@@ -2,14 +2,25 @@
 
 This digital ecosystem challenge aims to establish a **Domain Name Signature Provider (DNSP)** program that is designed to verify and establish trust for domain owners by linking their domain name to a cryptographic key pair. The program ensures that the domain owner is verified and demonstrates the capability to securely sign digital documents or data. 
 
+## Core Conformance Requirements
 The DNSP program is intended to operate in conformance with the [did:web Method Specification](https://w3c-ccg.github.io/did-method-web/) and the [High Assurance DIDs with DNS Guidance](https://www.ietf.org/archive/id/draft-carter-high-assurance-dids-with-dns-06.html). 
 
+## Supplementary Conformance Requirements
+For higher assurance level requirements and sector-specific requirements the following national standards and specifications may be applied:
+- [DGSI/TS 115 Technical Specification for Digital Credentials and Digital Trust Services](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-credentials/digital-credentials/)
+- [CAN/DGSI 103-0: Digital Trust & Identity - Part 0 - Techniques - Code of Practice](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-trust/can-ciosc-103-0-digital-trust-identity-part-0-techniques-code-of-practice/)
+- [CAN/DGSI 103-1: Digital Trust & Identity – Part 1 – Fundamentals](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)
+- [CAN/DGSI 103-2: Data Trust & Identity – Part 2 – Delivery of Healthcare Services](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-trust/digital-trust/)
+- [CAN/DGSI 103-3: Digital Trust & Identity – Part 3 – Digital Credentials](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-trust/digital-credentials/)
+
+## Verification
 Verification would be conducted under the auspices of the [DGC Digital Trust Conformity Assessment Program](https://github.com/dgc-cgn/CAS-Digital-Trust).
 
+## Program Outcome
+The **program outcome** is confidence in the marketplace that a decentralized and standardized approach for verifying cryptographically signed documents and credentials using commonly known domain names can serve the needs of a broad array of users and stakeholders.
 
-The **program outcome** is a decentralized and standardized approach for associating cryptographic credentials with domain names.
-
-This is a program to enable mutual recognition of those who have successfully implemented the requirements outlined in [DEC-02 Sign and Verify With My Domain](dec-02.md)
+## Mutual Recognition
+This is a program intended to enable mutual recognition of those who have successfully implemented the requirements and guidance outlined above and have undergone a formalized verification process.
 
 ## Key Features:
 The program verifies the following.
