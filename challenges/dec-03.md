@@ -1,6 +1,11 @@
 # Domain Name Signature Provider (DNSP)
 
-The **Domain Name Signature Provider (DNSP)** is a program designed to verify and establish trust for domain owners by linking their domain name to a cryptographic key pair. It ensures that the domain owner is authenticated and can securely sign digital documents or data. The DNSP service operates in conformance with the [did:web Method Specification](https://w3c-ccg.github.io/did-method-web/) and the [High Assurance DIDs with DNS Guidance](https://www.ietf.org/archive/id/draft-carter-high-assurance-dids-with-dns-06.html) providing a decentralized and standardized approach for associating cryptographic credentials with domain names.
+This digital ecosystem challenge aims to establish a **Domain Name Signature Provider (DNSP)** program that designed to verify and establish trust for domain owners by linking their domain name to a cryptographic key pair. The program ensures that the domain owner is verified and demonstrates the capability to securely sign digital documents or data. 
+
+The DNSP program is intended to operate in conformance with the [did:web Method Specification](https://w3c-ccg.github.io/did-method-web/),[High Assurance DIDs with DNS Guidance](https://www.ietf.org/archive/id/draft-carter-high-assurance-dids-with-dns-06.html) and verification would be conducted under the auspices of the [DGC Digital Trust Conformity Assessment Program](https://github.com/dgc-cgn/CAS-Digital-Trust) 
+
+
+The **program outcome** is a decentralized and standardized approach for associating cryptographic credentials with domain names.
 
 This is a program to enable mutual recognition of those who have successfully implemented the requirements outlined in [DEC-02 Sign and Verify With My Domain](dec-02.md)
 
@@ -39,4 +44,4 @@ The program verifies the following.
 
 ## Strategic Outcome
 
-The Domain Name Signature Provider Program enables trust and confidence in domain owners who have been verifed to enable secure participation in decentralized trust networks, empowering users and service providers with tools to establish authenticity, credibility and verifiability in the digital world.
+The **Domain Name Signature Provider Program** enables trust and confidence in domain owners who have been verifed to enable secure participation in decentralized trust networks, empowering users, service providers and the broader digital ecosystem of stakeholders with tools to establish authenticity, credibility and verifiability in the digital world.
