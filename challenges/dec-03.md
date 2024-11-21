@@ -1,10 +1,10 @@
-### Domain Name Signature Provider (DNSP)
+# Domain Name Signature Provider (DNSP)
 
 The **Domain Name Signature Provider (DNSP)** is a program designed to verify and establish trust for domain owners by linking their domain name to a cryptographic key pair. It ensures that the domain owner is authenticated and can securely sign digital documents or data. The DNSP service operates in conformance with the [did:web Method Specification](https://w3c-ccg.github.io/did-method-web/) and the [High Assurance DIDs with DNS Guidance](https://www.ietf.org/archive/id/draft-carter-high-assurance-dids-with-dns-06.html) providing a decentralized and standardized approach for associating cryptographic credentials with domain names.
 
 This is a program to enable mutual recognition of those who have successfully implemented the requirements outlined in [DEC-02 Sign and Verify With My Domain](dec-02.md)
 
-#### Key Features:
+## Key Features:
 
 1. **Domain Ownership Verification**:
    - The service verifies that the user controls the domain name by requiring proof, such as updating DNS records or serving a specific file at a URL under the domain.
@@ -30,7 +30,7 @@ This is a program to enable mutual recognition of those who have successfully im
    - **Document Signing**: Sign contracts, agreements, or other documents with cryptographic proof linked to a domain.
    - **Web of Trust**: Establish a decentralized trust mechanism by linking domain ownership to cryptographic identities.
 
-#### Benefits:
+## Benefits:
 
 - **Trust and Transparency**: Provides cryptographic proof that a domain owner has signed the data.
 - **Security**: Protects the private key from compromise, ensuring that only the verified domain owner can generate signatures.
