@@ -1,4 +1,4 @@
-# Domain Name Signature Provider (DNSP)
+# Domain Name Signature Provider (DNSP) Program
 
 This digital ecosystem challenge aims to establish a **Domain Name Signature Provider (DNSP)** program that designed to verify and establish trust for domain owners by linking their domain name to a cryptographic key pair. The program ensures that the domain owner is verified and demonstrates the capability to securely sign digital documents or data. 
 
