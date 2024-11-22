@@ -1,16 +1,21 @@
 # Domain Name Signature Provider (DNSP) Program
 
-## Building a Stronger Digital Ecosystem
-
-This program builds on those who have implemented [DEC-02 Sign and Verify With My Domain](dec-02.md) and who wish to be formally recognized for their investment in building stronger digital ecosystem.
-
 ## Overview 
 
-This digital ecosystem challenge aims to establish a **Domain Name Signature Provider (DNSP)** program that is designed to verify and establish trust for domain owners by linking their domain name to a cryptographic key pair. The program ensures that the domain owner is verified and demonstrates the capability to securely sign digital documents or data. 
+### The Need for a Stronger Digital Ecosystem
+
+There is a need to digitally sign and verify documents in a way that is open, inclusive and leverages the strength of the web infrastructure currently in place. Until now, it has been difficult, but with recent advances in standards and guidance, it is now possible for every website owner to add the ability to sign documents and enable verification with their domain name. Many website owners who are now implementing [DEC-02 Sign and Verify With My Domain](dec-02.md) now wish to be formally recognized for their investment in building stronger digital ecosystem.
+
+### Establishing a Practical Program for Digital Trust
+
+This digital ecosystem initiative aims to establish a **Domain Name Signature Provider (DNSP)** practical program that enable website owners to link their domain name to a cryptographic key that is used to verify documents that they issue. 
 
 In practical terms, if a user receives a document signed by a website owner with a well-known domain name—such as agency.canada.ca—the document can be quickly verified by referencing the public key associated with agency.canada.ca. This combination of a recognized domain name and its corresponding public key ensures reliable confirmation that the document was signed by the legitimate issuer and remains untampered.
 
-The DNSP utilizes widely used web capabilities, enabling any website owner to issue authentic documents that are easy to verify, such as invoices, letters of enrollment, or proofs of income.
+This program is intended ensures that the domain owner is a legitimate entity, can demonstrate the capability to securely sign digital documents, and enables easy verificiation of these documents.
+
+
+No new technolgy is needed. The DNSP utilizes widely used web and infrastructure capabilities, enabling any website owner to issue authentic documents that are easy to verify, such as invoices, letters of enrollment, and proofs of income.
 
 
 ## Core Conformance Requirements
