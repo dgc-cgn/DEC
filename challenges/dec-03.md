@@ -2,6 +2,8 @@
 
 This digital ecosystem challenge aims to establish a **Domain Name Signature Provider (DNSP)** program that is designed to verify and establish trust for domain owners by linking their domain name to a cryptographic key pair. The program ensures that the domain owner is verified and demonstrates the capability to securely sign digital documents or data. 
 
+This challenge builds on those who have implemented [DEC-02 Sign and Verify With My Domain](dec-02.md) and who wish to be formally recognized for their investment in building stronger digital ecosystem.
+
 ## Core Conformance Requirements
 The DNSP program is intended to operate in conformance with the [did:web Method Specification](https://w3c-ccg.github.io/did-method-web/) and the [High Assurance DIDs with DNS Guidance](https://www.ietf.org/archive/id/draft-carter-high-assurance-dids-with-dns-06.html). 
 
