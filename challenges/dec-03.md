@@ -1,14 +1,19 @@
 # Domain Name Signature Provider (DNSP) Program
 
+## Overview 
 This digital ecosystem challenge aims to establish a **Domain Name Signature Provider (DNSP)** program that is designed to verify and establish trust for domain owners by linking their domain name to a cryptographic key pair. The program ensures that the domain owner is verified and demonstrates the capability to securely sign digital documents or data. 
 
 This challenge builds on those who have implemented [DEC-02 Sign and Verify With My Domain](dec-02.md) and who wish to be formally recognized for their investment in building stronger digital ecosystem.
 
 ## Core Conformance Requirements
-The DNSP program is intended to operate in conformance with the [did:web Method Specification](https://w3c-ccg.github.io/did-method-web/) and the [High Assurance DIDs with DNS Guidance](https://www.ietf.org/archive/id/draft-carter-high-assurance-dids-with-dns-06.html). 
+The initial DNSP program is intended to apply the following artefacts for the purposes of verifcation: 
+- [did:web Method Specification](https://w3c-ccg.github.io/did-method-web/) 
+- [High Assurance DIDs with DNS Guidance](https://www.ietf.org/archive/id/draft-carter-high-assurance-dids-with-dns-06.html)
+
+Further details can be found in [DEC-02](dec-02.md)
 
 ## Supplementary Conformance Requirements
-For higher assurance level requirements and sector-specific requirements the following national standards and specifications may be applied:
+For higher assurance level requirements and sector-specific requirements the following national standards and specifications may be applied for verification:
 - [DGSI/TS 115 Technical Specification for Digital Credentials and Digital Trust Services](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-credentials/digital-credentials/)
 - [CAN/DGSI 103-0: Digital Trust & Identity - Part 0 - Techniques - Code of Practice](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-trust/can-ciosc-103-0-digital-trust-identity-part-0-techniques-code-of-practice/)
 - [CAN/DGSI 103-1: Digital Trust & Identity – Part 1 – Fundamentals](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-trust/digital-trust-fundamentals/)
