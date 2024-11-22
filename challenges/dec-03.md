@@ -1,18 +1,28 @@
 # Domain Name Signature Provider (DNSP) Program
 
+## Building a Stronger Digital Ecosystem
+
+This program builds on those who have implemented [DEC-02 Sign and Verify With My Domain](dec-02.md) and who wish to be formally recognized for their investment in building stronger digital ecosystem.
+
 ## Overview 
+
 This digital ecosystem challenge aims to establish a **Domain Name Signature Provider (DNSP)** program that is designed to verify and establish trust for domain owners by linking their domain name to a cryptographic key pair. The program ensures that the domain owner is verified and demonstrates the capability to securely sign digital documents or data. 
 
-This challenge builds on those who have implemented [DEC-02 Sign and Verify With My Domain](dec-02.md) and who wish to be formally recognized for their investment in building stronger digital ecosystem.
+In practical terms, if a user receives a document signed by a website owner with a well-known domain name—such as agency.canada.ca—the document can be quickly verified by referencing the public key associated with agency.canada.ca. This combination of a recognized domain name and its corresponding public key ensures reliable confirmation that the document was signed by the legitimate issuer and remains untampered.
+
+The DNSP utilizes widely used web capabilities, enabling any website owner to issue authentic documents that are easy to verify, such as invoices, letters of enrollment, or proofs of income.
+
 
 ## Core Conformance Requirements
-The initial DNSP program is intended to apply the following artefacts for the purposes of verifcation: 
+
+The initial DNSP program is intended to apply the following recommendations and guidance for the purposes of verification and mutual recognition: 
+
 - [did:web Method Specification](https://w3c-ccg.github.io/did-method-web/) 
 - [High Assurance DIDs with DNS Guidance](https://www.ietf.org/archive/id/draft-carter-high-assurance-dids-with-dns-06.html)
 
-Further details can be found in [DEC-02](dec-02.md)
 
 ## Supplementary Conformance Requirements
+
 For higher assurance level requirements and sector-specific requirements the following national standards and specifications may be applied for verification:
 - [DGSI/TS 115 Technical Specification for Digital Credentials and Digital Trust Services](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-credentials/digital-credentials/)
 - [CAN/DGSI 103-0: Digital Trust & Identity - Part 0 - Techniques - Code of Practice](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-trust/can-ciosc-103-0-digital-trust-identity-part-0-techniques-code-of-practice/)
@@ -20,7 +30,15 @@ For higher assurance level requirements and sector-specific requirements the fol
 - [CAN/DGSI 103-2: Data Trust & Identity – Part 2 – Delivery of Healthcare Services](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-trust/digital-trust/)
 - [CAN/DGSI 103-3: Digital Trust & Identity – Part 3 – Digital Credentials](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-trust/digital-credentials/)
 
-## Verification
+## Related Implementations
+
+- **DHS Implementation the U.S. Department of Homeland Security’s (DHS)** strategic implementation of decentralized identity, focusing on trust architectures to support secure and scalable digital identity verification for public sector applications.
+[DHS Trust Architecture](https://dhs-svip.github.io/requirements-for-decentralized-identity/TrustArchitecture/)
+- **DIF Trust DID Web Decentralized Identity Foundation** initiative to develop standards and best practices for DID, promoting interoperable, web-based decentralized identities to enhance trust and usability across digital services.
+[Trust DID Web - did:tdw](https://identity.foundation/trustdidweb/)
+
+## Verification Methodology
+
 Verification would be conducted under the auspices of the [DGC Digital Trust Conformity Assessment Program](https://github.com/dgc-cgn/CAS-Digital-Trust).
 
 ## Program Outcome
@@ -62,6 +80,9 @@ The program verifies the following.
 - **Standardization**: Leverages globally recognized W3C standards for broad compatibility and trustworthiness.
 - **Decentralized Verification**: Allows anyone to independently verify domain signatures without relying on centralized authorities.
 
-## Strategic Outcome
+## Strategic Outcomes
 
-The **Domain Name Signature Provider Program** enables trust and confidence in domain owners who have been verifed to enable secure participation in decentralized trust networks, empowering users, service providers and the broader digital ecosystem of stakeholders with tools to establish authenticity, credibility and verifiability in the digital world.
+The **Domain Name Signature Provider Program** would enables trust and confidence in domain owners who have been verifed to enable secure participation in decentralized trust networks, empowering users, service providers and the broader digital ecosystem of stakeholders with tools to establish authenticity, credibility and verifiability in the digital world.
+
+
+
