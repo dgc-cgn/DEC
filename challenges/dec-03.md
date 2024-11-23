@@ -1,7 +1,7 @@
 # Let's Sign and Verify
 Still relying on unverified pdfs and screenshots as proofs? Let's fix that!
 
-Let's build a program to enable the widescale adoption of digital signing and verification of documents on the internet. And let's use technology that you already have!
+Let's build a program to enable the widescale adoption of digital signing and verification of documents on the internet. And let's use technology that you already have! 
 
 ![Logo](./assets/SignVerify-logo.png)
 
@@ -9,6 +9,7 @@ Let's build a program to enable the widescale adoption of digital signing and ve
 This program builds on [DEC-02](dec-02.md) and is named after the inspirational success of [Let's Encrypt](https://letsencrypt.org/), a free service provided by the [Internet Security Research Group (ISRG)](https://www.abetterinternet.org/). This program was originally entitled **Domain Name Signature Provider (DNSP) Program** but we'll use the friendlier title of **Let's Sign and Verify**.
 
 If you wish to participate please contact [info@dgc-cgn.org](mailto:info@dgc-cgn.org). More details are below.
+
 
 ## Overview 
 
