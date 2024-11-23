@@ -6,6 +6,8 @@ This program is named after the inspirational success of [Let's Encrypt](https:/
 
 This program was originally entitled **Domain Name Signature Provider (DNSP) Program** but we'll use the better name **Let's Sign and Verify** if it can enable a better internet.
 
+If you wish to participate or learn more, please contact [info@dgc-cgn.org](mailto:info@dgc-cgn.org)
+
 ## Overview 
 
 ### The Need for a Stronger Digital Ecosystem
