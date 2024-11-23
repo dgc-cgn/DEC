@@ -1,4 +1,10 @@
-# Domain Name Signature Provider (DNSP) Program
+# Let's Sign and Verify
+
+A program to enable the widescale adoption of digital signing and verification of documents on the internet. 
+
+This program is named after the inspirational success of [Let's Encrypt](https://letsencrypt.org/), a free service provided by the [Internet Security Research Group (ISRG)](https://www.abetterinternet.org/).
+
+This program was originally entitled **Domain Name Signature Provider (DNSP) Program** but we'll use the better name **Let's Sign and Verify** if it can enable a better internet.
 
 ## Overview 
 

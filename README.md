@@ -35,5 +35,5 @@ While the challenges may range in the way they are carried out, it is important 
 |---|---|
 |[DEC-01](/challenges/dec-01.md)| Empowering Citizen-Centric Data Sharing|
 |[DEC-02](/challenges/dec-02.md)| Sign and Verify With My Domain|
-|[DEC-03](/challenges/dec-03.md)| Domain Name Signature Provider Program|
+|[DEC-03](/challenges/dec-03.md)| Let's Sign and Verify Program|
 
