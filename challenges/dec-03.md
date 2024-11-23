@@ -1,13 +1,13 @@
 # Let's Sign and Verify
-![Logo](./assets/SignVerify-logo.png)
-
 A program to enable the widescale adoption of digital signing and verification of documents on the internet. 
 
-This program is named after the inspirational success of [Let's Encrypt](https://letsencrypt.org/), a free service provided by the [Internet Security Research Group (ISRG)](https://www.abetterinternet.org/).
+![Logo](./assets/SignVerify-logo.png)
 
-This program was originally entitled **Domain Name Signature Provider (DNSP) Program** but we'll use the better name **Let's Sign and Verify** if it can enable a better internet.
 
-If you wish to participate or learn more, please contact [info@dgc-cgn.org](mailto:info@dgc-cgn.org)
+
+This program builds on [DEC-02](dec-02.md) and is named after the inspirational success of [Let's Encrypt](https://letsencrypt.org/), a free service provided by the [Internet Security Research Group (ISRG)](https://www.abetterinternet.org/). This program was originally entitled **Domain Name Signature Provider (DNSP) Program** but we'll use the friendlier title of **Let's Sign and Verify**.
+
+If you wish to participate please contact [info@dgc-cgn.org](mailto:info@dgc-cgn.org). More details are below.
 
 ## Overview 
 
