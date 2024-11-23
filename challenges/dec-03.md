@@ -98,4 +98,4 @@ The program verifies the following.
 The **Domain Name Signature Provider Program** would enables trust and confidence in domain owners who have been verifed to enable secure participation in decentralized trust networks, empowering users, service providers and the broader digital ecosystem of stakeholders with tools to establish authenticity, credibility and verifiability in the digital world.
 
 
-
+![Logo](./assets/SignVerify.png)
